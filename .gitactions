@@ -1,0 +1,7 @@
+Node.js 16: actions-rs/toolchain, actions-rs/cargo 
+
+runs:
+  using: 'node16'
+  main: 'main.js'
+
+Node.js 16: actions/checkout, actions/checkout
