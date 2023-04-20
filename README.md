@@ -1,2 +1,2 @@
 # OASIS.html
-interractive website ncluding ticket purchacing and navigation process
+interractive website including ticket purchacing and navigation process
